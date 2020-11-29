@@ -9,3 +9,7 @@ Under the hood used Vue.js for frontend and Laravel for backend.
 To run this project clone this repo. Then run npm install, composer install. After installation in cmd write two command: 
   php artisan serve
   npm run watch (run watch poll)
+  
+## env
+  You also need to setup .env file
+  
